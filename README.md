@@ -6,7 +6,19 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,flutter,mysql,js,nodejs,express,html,css,bootstrap,git&amp;perline=6&amp;theme=dark" alt="Java, Python, Flutter, MySQL, JavaScript, Node.js, Express, HTML, CSS, Bootstrap, and Git" width="350">
+  <strong>Frontend</strong><br>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap&amp;theme=dark" alt="Angular, TypeScript, JavaScript, HTML, CSS, and Bootstrap" width="320">
+</p>
+
+<p align="center">
+  <strong>Backend and databases</strong><br>
+  <img src="https://skillicons.dev/icons?i=nestjs,django,nodejs,express,java,python,mysql&amp;theme=dark" alt="NestJS, Django, Node.js, Express, Java, Python, and MySQL" width="370">
+</p>
+
+<p align="center">
+  <strong>Mobile development and tools</strong><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git&amp;theme=dark" alt="Flutter, Dart, Android Studio, and Git" width="210"><br>
+  Flutter apps and Android development
 </p>
 
 <p align="center">
