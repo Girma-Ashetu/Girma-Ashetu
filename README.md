@@ -1,52 +1,41 @@
-<h1 align="center">Girma Ashetu Asefa</h1>
+# Girma Ashetu Asefa
 
-<p align="center"><strong>Software Engineering Student</strong><br>
-Full-stack web applications · Backend systems · Mobile development</p>
+**Software engineering student · Full-stack web development**  
+Jimma Institute of Technology · Ethiopia
 
-<p align="center">
-  <a href="https://girma-ashetu.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-0969da?style=for-the-badge" alt="Visit my portfolio"></a>
-  <a href="https://github.com/Girma-Ashetu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-24292f?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Browse my public repositories"></a>
-</p>
+[Portfolio](https://my-portfolio1-theta-one.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/girma-ashetu-a146b9422) · [Email](mailto:girme405@gmail.com)
 
-I build web applications with database-backed features and clear user interfaces. My current focus is backend architecture, Flutter and Android development, and applying AI to agricultural problems.
+I build practical applications by connecting responsive interfaces, backend APIs, and structured data. I’m learning through real projects, with attention to clear workflows, accessibility, and readable code.
 
 ## Featured work
 
-- **[Portfolio and content studio](https://github.com/Girma-Ashetu/my-portfolio)** — A React and Vite portfolio with a MySQL-backed project catalog and an authenticated content editor.
-- **[Taste of Ethiopia](https://github.com/Girma-Ashetu/Taste-of-Ethiopia.github.io)** — A PHP web project with separate frontend and backend code and a SQL schema.
+### SOS Student Record System
+A school management application with student registration, role-specific dashboards, attendance, grading, reporting, and messaging.
 
-## Technologies
+- **My contribution:** I implemented the frontend, Express backend, and MySQL data layer for this academic team project.
+- **Built with:** JavaScript, HTML, CSS, Bootstrap, Node.js, Express, MySQL, and Socket.IO.
+- **[Explore the staging demo](https://srs-staging.vercel.app/)** · [Read the case study](https://my-portfolio1-theta-one.vercel.app/projects)
 
-<p>
-  <strong>Web and backend</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,bootstrap,nodejs,express,mysql,java,python,php&amp;perline=6&amp;theme=dark" width="300" alt="React, Vite, JavaScript, HTML, CSS, Bootstrap, Node.js, Express, MySQL, Java, Python, and PHP">
-</p>
+### Developer Portfolio & Content Studio
+A React portfolio with a searchable project catalogue, demo links, authenticated content editing, and a database-backed contact workflow.
 
-<p>
-  <strong>Mobile and tools</strong><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git&amp;theme=dark" width="200" alt="Flutter, Dart, Android Studio, and Git">
-</p>
+- **Built with:** React, Vite, Node.js, Express, and MySQL.
+- **[Visit the live portfolio](https://my-portfolio1-theta-one.vercel.app/)** · [View source code](https://github.com/Girma-Ashetu/my-portfolio)
 
-<p>
-  <strong>Currently learning</strong><br>
-  <img src="https://skillicons.dev/icons?i=nestjs,django,angular,ts&amp;theme=dark" width="200" alt="NestJS, Django, Angular, and TypeScript">
-</p>
+### Taste of Ethiopia
+An Ethiopian cuisine web project built with PHP and MySQL, with separate frontend and backend code.
 
-## GitHub activity
+[View repository](https://github.com/Girma-Ashetu/Taste-of-Ethiopia.github.io)
 
-<p align="center">
-  <a href="https://github.com/Girma-Ashetu?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Girma-Ashetu&amp;theme=github_dark">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Girma-Ashetu&amp;theme=github" width="255" alt="Languages used across my public GitHub repositories">
-    </picture>
-  </a>
-  <a href="https://github.com/Girma-Ashetu#contribution-activity">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Girma-Ashetu&amp;theme=github-dark-blue">
-      <img src="https://streak-stats.demolab.com/?user=Girma-Ashetu&amp;theme=default" width="400" alt="Total contributions, current streak, and longest streak">
-    </picture>
-  </a>
-</p>
+## My toolkit
 
-<p align="center"><a href="https://github.com/Girma-Ashetu#contribution-activity">View contribution activity on GitHub</a></p>
+- **Frontend:** React, JavaScript, HTML, CSS, Bootstrap, responsive design
+- **Backend & data:** Node.js, Express, MySQL, Java, Python, PHP
+- **Mobile & tools:** Flutter, Dart, Android Studio, Git, GitHub
+- **Currently learning:** NestJS, Django, Angular, TypeScript
+
+## Let’s connect
+
+I’m interested in opportunities to learn, collaborate, and contribute to useful software.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/girma-ashetu-a146b9422) · [Explore my projects](https://my-portfolio1-theta-one.vercel.app/projects)
