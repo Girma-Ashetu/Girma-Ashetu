@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Girma Ashetu Asefa</h1>
-<h3>Useful software. Thoughtfully built.</h3>
+<img src="assets/profile-banner.svg" width="100%" alt="Girma Ashetu Asefa — Useful software. Thoughtfully built. Full-stack development.">
+
 <p>Software engineering student · Full-stack web development<br>Jimma Institute of Technology · Ethiopia</p>
 
 <a href="https://my-portfolio1-theta-one.vercel.app/"><img alt="Explore my portfolio" src="https://img.shields.io/badge/PORTFOLIO-Explore_my_work-d1f996?style=for-the-badge&labelColor=142019&color=d1f996"></a>
