@@ -1,22 +1,28 @@
-# Girma-Ashetu
+<h1 align="center">Hi, I'm Girma!</h1>
 
-# Hi there, I'm Girma! 👋
+<p align="center">
+  <strong>Software Engineering Student</strong><br>
+  Backend systems · Applied AI · Mobile development
+</p>
 
-I am a Software Engineering Student passionate about bridging infrastructure gaps through AI-driven solutions and robust backend systems.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,flutter,mysql,js,nodejs,express,html,css,bootstrap,git&amp;perline=6&amp;theme=dark" alt="Java, Python, Flutter, MySQL, JavaScript, Node.js, Express, HTML, CSS, Bootstrap, and Git" width="350">
+</p>
 
-# Current Focus
-AI in Agriculture:"Currently developing "[**Shoraa-Predict**](https://github.com/YOUR_USERNAME/shoraa-predict)", a platform designed to provide predictive analytics for the agricultural sector.
-- 📱Mobile Dev: Exploring cross-platform frameworks and optimizing development environments.
-- 💻 Backend & Architecture: Implementing database connectivity with Java/JDBC and studying Software Design Patterns (State, Marker).
+<p align="center">
+  <a href="https://github.com/Girma-Ashetu"><img src="https://img.shields.io/badge/GitHub-Girma--Ashetu-24292f?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Girma Ashetu on GitHub"></a>
+  <a href="https://github.com/Girma-Ashetu/SOS-SRS"><img src="https://img.shields.io/badge/Project-SOS--SRS-0969da?style=for-the-badge" alt="SOS Student Record System"></a>
+</p>
 
-### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### What I'm building
 
- 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+- **[SOS-SRS](https://github.com/Girma-Ashetu/SOS-SRS)** — A school records portal with dashboards for students, families, teachers, registry staff, and administrators.
+- **Shoraa-Predict** — An exploration of how AI and predictive analytics can support agriculture.
+- **What I'm learning** — Flutter for cross-platform mobile development and Java/JDBC for database-backed applications.
 
----
-📫 **How to reach me:** [Link your LinkedIn or Email here]
+### GitHub activity
+
+<p align="center">
+  <a href="https://github.com/Girma-Ashetu?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Girma-Ashetu&amp;theme=github_dark" width="255" alt="Languages across Girma's public repositories"></a>
+  <a href="https://github.com/Girma-Ashetu#contribution-activity"><img src="https://streak-stats.demolab.com/?user=Girma-Ashetu&amp;theme=github-dark-blue" width="405" alt="GitHub contributions, current streak, and longest streak"></a>
+</p>
